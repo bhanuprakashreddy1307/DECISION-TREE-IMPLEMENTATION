@@ -61,5 +61,5 @@ Decision trees can **overfit** the training data, especially when they grow too 
 
 In summary, decision tree implementation involves converting raw data into a structure of decisions using recursive splitting. With clear logic and human-readable rules, decision trees serve as both standalone models and as components in ensemble methods like Random Forests and Gradient Boosting.
 
-
+*OUTPUT*:
 
